@@ -1,4 +1,3 @@
-SELECT * FROM covid_database.covidvaccinations;
 use covid_database;
 drop table if exists covid_vaccination;
 drop table if exists covid_deaths;
